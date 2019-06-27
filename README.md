@@ -1,4 +1,4 @@
-# CommentTextClassification
+# Comment Text Classification
 
 ## Description
 The project consists in finding the right supervised model and its parameters to distinguish the type of a comment on Wikipedia. 
